@@ -1,0 +1,9 @@
+{
+  "name": "weather-server-api",
+  "alias": "weather-server-api.now.sh",
+  "version": 1,
+  "env": {
+    "GOOGLE": "@google",
+    "DARKSKY": "@darksky"
+  }
+}
