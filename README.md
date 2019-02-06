@@ -26,3 +26,4 @@ $ yarn install && yarn start
 Install [now-cli](https://github.com/zeit/now-cli) with `npm i -g now-cli`.
 
 Run `now` in terminal.
+This is deployed at <https://weather-api-graphql.now.sh/graphql>
