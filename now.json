@@ -1,6 +1,6 @@
 {
-  "name": "weather-server-api",
-  "alias": "weather-server-api.now.sh",
+  "name": "weather-api-graphql",
+  "alias": "weather-api-graphql.now.sh",
   "version": 1,
   "env": {
     "GOOGLE": "@google",
